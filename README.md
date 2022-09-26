@@ -1,7 +1,5 @@
-# GitHub-Actions
+# Continuous Intergration through GitHub-Actions
 
+![alx-rg workflow](https://github.com/alx-rg/ci-github-actions/actions/workflows/node.js.yml/badge.svg)
 
-![example workflow](https://github.com/Tech-at-DU/GitHub-Actions/actions/workflows/node.js.yml/badge.svg)
-
-[![Jest](https://github.com/Tech-at-DU/GitHub-Actions/actions/workflows/jest.yml/badge.svg)](https://github.com/Tech-at-DU/GitHub-Actions/actions/workflows/jest.yml)
-
+[![Jest](https://github.com/alx-rg/ci-github-actions/actions/workflows/jest.yml/badge.svg)](https://github.com/alx-rg/ci-github-actions/actions/workflows/jest.yml)
